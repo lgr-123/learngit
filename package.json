@@ -18,5 +18,10 @@
   "homepage": "https://github.com/lgr-123/learngit#readme",
   "devDependencies": {
     "cz-customizable": "^6.3.0"
-  }
+  },
+  "config": {
+    "commitizen": {
+       "path": "node_modules/cz-customizable"
+     }
+   }
 }
